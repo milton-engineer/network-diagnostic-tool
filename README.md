@@ -1,5 +1,9 @@
 # Network Diagnostic Tool
 
+## Network Diagnostic Demonstration
+
+![Network Diagnostic Tool Running](network_screenshot.png)
+
 Linux-based utility focused on network diagnostics and connectivity troubleshooting.
 
 ## Overview
